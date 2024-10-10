@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    width: 95%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    font-size: 9.5vmin;
+    text-align: center;
+}
+
+#btn{
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    background: darkred;
+    color: lightpink;
+    font-weight: 800;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px darkslategrey;
+}
